@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Des"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Saravanan Desikan"
+description              : "Des's portfolio."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -63,11 +63,11 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Saravanan Desikan"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Engineering Leader"
+  location         : "SanFrancisco Bay area"
+  email            : "des.saravanan@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -80,7 +80,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "http://www.linkedin.com/in/dsaravanan"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -206,3 +206,12 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+
