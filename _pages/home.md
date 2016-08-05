@@ -31,6 +31,11 @@ mytimeline:
       readmore: "#0"
       date: "Jun 05 - Aug 09"
 
+    - title: "Software Manager, Extreme Networks, Santa Clara, CA"
+      desc: "Joined Extreme in its pre-IPO stage, worked on many parts of the
+      software as a core memeber. Promoted and held various roles.
+      readmore: "#0"
+      date: "Mar98 - Jun 05"
 ---
 
 {% include base_path %}
