@@ -9,15 +9,16 @@ mytimeline:
       desc: "Lead the Android Runtime (ART) Center of Excellence for Intel with
             the reponsibility for strategy, direction, planning, development and
             delivery of Android Runtime and User Experience for Intel"
-      img_path: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/148866/cd-icon-picture.svg"
       img_alt: "Intel"
       readmore: "http://www.google.com"
+      fa-icon: group
       date: "Dec 10 - Present"
 
     - title: "Independent Consultant"
       desc: "took personal time off to be with family in India to address a
             family emergency. Consulted for software development firms on the SDLC,
             quality initiatives and release & configuration management"
+      fa-icon: user
       date: "Sep 09 - Dec 10"
 
     - title: "Director of Engineering, ConSentry Networks, Milpitas, CA"
@@ -29,22 +30,26 @@ mytimeline:
             acceptance phase. The LanShield CS4048X wiring-closed switch won
             <strong>Interop 2006 Best of Show</strong>"
       readmore: "#0"
+      fa-icon: group
       date: "Jun 05 - Aug 09"
 
     - title: "Software Manager, Extreme Networks, Santa Clara, CA"
       desc: "Joined Extreme in its pre-IPO stage, worked on many parts of the
             software as a core memeber. Promoted and held various roles."
       readmore: "#0"
+      fa-icon: hashtag
       date: "Mar 98 - Jun 05"
 
     - title: Senior Software Engineer, FlowWise Networks, San Jose, CA"
       desc: "Designed and developed the switching and routing solutions for the
             FlowWise's L3 switch product."
+      fa-icon: code
       date: "Nov 97 - Mar 98"
 
     - title: "Senior Software Engineer, Future Software, Chennai, India"
       desc: "Designed, developed and tested FutureOSPF, a source code product
             that is sold to the OEM vendors for routers & switches."
+      fa-icon: code
       date: "Jun 95 - Nov 97"
 
     - title: "Graduation"
@@ -69,8 +74,6 @@ products from concept to market. Hands on experience  and working knowledge of
 Flexible approach to perform in different roles and to scale appropriately as the team requires.
 
 **Immigration Status:** US Citizen
-
-<i class="fa fa-camera-retro"></i>
 
 Skills
 -------

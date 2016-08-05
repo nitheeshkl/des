@@ -22,7 +22,7 @@
                         {% endif %}
                         alt="{% if t.img_alt %}{{ t.img_alt }}{% endif %}">
                 {% elsif t.fa-icon %}
-                    <i class="fa fa-{{ t.fa-icon }} fa-2x"></i>
+                    <i class="fa fa-{{ t.fa-icon }} "></i>
                 {% endif %}
 			</div> <!-- cd-timeline-img -->
 
