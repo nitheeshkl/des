@@ -1,0 +1,52 @@
+{% include base_path %}
+
+{% if include.id %}
+    {% assign timeline = page.[include.id] %}
+{% else %}
+    {% assign timeline = page.timeline %}
+{% endif %}
+
+<section id="cd-timeline" class="cd-container">
+
+    {% for t in timeline %}
+
+		<div class="cd-timeline-block">
+
+			<div class="cd-timeline-img" {% if t.img_bg %}style="background: {{ t.img_bg }};"{% endif %}>
+                {% if t.img_path %}
+				    <img src=
+                        {% if t.img_path contains "://" %}
+                            "{{ t.img_path }}"
+                        {% else %}
+                            "{{ t.img_path | prepend: "/images/" | prepend: base_path }}"
+                        {% endif %}
+                        alt="{% if t.img_alt %}{{ t.img_alt }}{% endif %}">
+                {% endif %}
+			</div> <!-- cd-timeline-img -->
+
+            <div class="cd-timeline-content">
+                {% if t.title %}
+                    <h2>{{ t.title }}</h2>
+                {% endif %}
+                {% if t.desc %}
+                    <p>{{ t.desc }}</p>
+                {% endif %}
+                {% if t.readmore %}
+				    <a href=
+                        {% if t.readmore contains "://" %}
+                            "{{ t.readmore }}"
+                        {% else %}
+                            "{{ t.readmore | prepend: base_path }}"
+                        {% endif %} 
+                        class="cd-read-more">Read more</a>
+                {% endif %}
+                {% if t.date %}
+				    <span class="cd-date">{{ t.date }}</span>
+                {% endif %}
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+    {% endfor %}
+
+</section> <!-- cd-timeline -->
+

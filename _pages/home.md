@@ -4,6 +4,13 @@ permalink: /
 author_profile: true
 header:
     image: header.jpg
+mytimeline:
+    - title: "mytitle1"
+      desc: "asfdasdfsadfasfdasfasfasfsafasdfsadf"
+      img_path: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/148866/cd-icon-picture.svg"
+      img_alt: "kln"
+      readmore: "http://www.google.com"
+      date: "Mar 12"
 ---
 
 {% include base_path %}
@@ -32,4 +39,4 @@ Skills
 Professional Experience
 ------------------------
 
-{% include timeline.html %}
+{% include timeline id="mytimeline" %}
