@@ -33,9 +33,25 @@ mytimeline:
 
     - title: "Software Manager, Extreme Networks, Santa Clara, CA"
       desc: "Joined Extreme in its pre-IPO stage, worked on many parts of the
-      software as a core memeber. Promoted and held various roles.
+            software as a core memeber. Promoted and held various roles."
       readmore: "#0"
-      date: "Mar98 - Jun 05"
+      date: "Mar 98 - Jun 05"
+
+    - title: Senior Software Engineer, FlowWise Networks, San Jose, CA"
+      desc: "Designed and developed the switching and routing solutions for the
+            FlowWise's L3 switch product."
+      date: "Nov 97 - Mar 98"
+
+    - title: "Senior Software Engineer, Future Software, Chennai, India"
+      desc: "Designed, developed and tested FutureOSPF, a source code product
+            that is sold to the OEM vendors for routers & switches."
+      date: "Jun 95 - Nov 97"
+
+    - title: "Graduation"
+      desc: "BS, Computer Science & Engineering from CIT (one of the top 25
+            institutions in India)"
+      date: "Jun 95"
+
 ---
 
 {% include base_path %}
