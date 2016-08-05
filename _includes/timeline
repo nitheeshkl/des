@@ -21,6 +21,8 @@
                             "{{ t.img_path | prepend: "/images/" | prepend: base_path }}"
                         {% endif %}
                         alt="{% if t.img_alt %}{{ t.img_alt }}{% endif %}">
+                {% elsif t.fa-icon %}
+                    <i class="fa fa-{{ t.fa-icon }} fa-2x"></i>
                 {% endif %}
 			</div> <!-- cd-timeline-img -->
 

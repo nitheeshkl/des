@@ -50,6 +50,7 @@ mytimeline:
     - title: "Graduation"
       desc: "BS, Computer Science & Engineering from CIT (one of the top 25
             institutions in India)"
+      fa-icon: graduation-cap
       date: "Jun 95"
 
 ---
@@ -69,6 +70,7 @@ Flexible approach to perform in different roles and to scale appropriately as th
 
 **Immigration Status:** US Citizen
 
+<i class="fa fa-camera-retro"></i>
 
 Skills
 -------

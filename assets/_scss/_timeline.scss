@@ -207,6 +207,17 @@ header {
 	box-shadow: 0 0 0 4px $color-3, inset 0 2px 0 rgba(#000, .08), 0 3px 0 4px rgba(#000, .05) ;
     background: $light-gray;
 
+    i {
+		display: block;
+		width: 24px;
+		height: 24px;
+		position: relative;
+		left: 50%;
+		top: 50%;
+		margin-left: -24px;
+		margin-top: -15px;
+	}
+
 	img {
 		display: block;
 		width: 24px;
