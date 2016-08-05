@@ -10,7 +10,7 @@ mytimeline:
             the reponsibility for strategy, direction, planning, development and
             delivery of Android Runtime and User Experience for Intel"
       img_alt: "Intel"
-      readmore: "http://www.google.com"
+      readmore: "/portfolio/intel/"
       fa-icon: group
       date: "Dec 10 - Present"
 
