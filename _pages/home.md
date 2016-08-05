@@ -65,6 +65,7 @@ mytimeline:
 
 Executive Summary
 -----------------
+{: .text-center}
 
 Customer-focused technical management professional with 21 years of proven 
 experience in **product design**, **development** and **QA**. Leader with strong
@@ -77,10 +78,12 @@ Flexible approach to perform in different roles and to scale appropriately as th
 
 Skills
 -------
+{: .text-center}
 
-![Skills]({{ base_path }}/images/skills.png)
-
+![Skills]({{ base_path }}/images/skills.png){: .align-center}
 
 Professional Experience
 ------------------------
+{: .text-center}
+
 {% include timeline id="mytimeline" %}
