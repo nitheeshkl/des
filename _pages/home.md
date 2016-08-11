@@ -2,8 +2,6 @@
 layout: archive
 permalink: /
 author_profile: true
-header:
-    image: header.jpg
 mytimeline:
     - title: "Director/Senior Engineering Manager, Intel Corporation,SantaClara, CA"
       desc: "Lead the Android Runtime (ART) Center of Excellence for Intel with
