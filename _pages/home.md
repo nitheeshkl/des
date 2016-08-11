@@ -20,21 +20,21 @@ mytimeline:
       date: "Sep 09 - Dec 10"
 
     - title: "Director of Engineering, ConSentry Networks, Milpitas, CA"
-      desc: "Concentry was building next generation Ethernet appliances (CS2400
+      desc: "Consentry was building next generation Ethernet appliances (CS2400
             and CS1000) and switches (CS4048 and CS4024) which natively integrated
             switching and routing with identity and application firewal 
             capabilities. Joined as the first software development manager and
             delivered all the products from concept through the customer
             acceptance phase. The LanShield CS4048X wiring-closed switch won
             <strong>Interop 2006 Best of Show</strong>"
-      readmore: "#0"
+      readmore: "/portfolio/consentry/"
       fa-icon: group
       date: "Jun 05 - Aug 09"
 
     - title: "Software Manager, Extreme Networks, Santa Clara, CA"
       desc: "Joined Extreme in its pre-IPO stage, worked on many parts of the
             software as a core memeber. Promoted and held various roles."
-      readmore: "#0"
+      readmore: "/portfolio/extreme/"
       fa-icon: hashtag
       date: "Mar 98 - Jun 05"
 
