@@ -14,7 +14,9 @@ sidebar:
     text: "Android Runtimes for Intel platforms"
 ---
 
-Lead the Android Runtime(ART) Center of Excellence for Intel with the responsibility for strategy, direction, planning, development, and delivery of Android Runtime and User Experience for Intel. 
+Lead the Android Runtime(ART) Center of Excellence for Intel with the
+responsibility for strategy, direction, planning, development, and delivery of
+Android Runtime and User Experience for Intel. 
 
 * Planned and executed in a start-up like fashion with agility to deliver the
   Dalvik Runtime stack for the reference Android OS that Intel ships with the
