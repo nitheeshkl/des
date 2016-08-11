@@ -61,6 +61,10 @@ mytimeline:
 {% include base_path %}
 
 
+![Banner]({{ base_path }}/images/des_banner.png){: .align-center}
+
+-------------------------------------------
+
 Executive Summary
 -----------------
 {: .text-center}
@@ -71,12 +75,17 @@ talent in building and developing high performance teams  while delivering
 products from concept to market. Hands on experience  and working knowledge of 
 **Android**, **Mobile platforms**, **Runtimes**, **Networking** and **Security**.
 Flexible approach to perform in different roles and to scale appropriately as the team requires.
+{: .text-justify}
+
+-------------------------------------------
 
 Skills
 -------
 {: .text-center}
 
 ![Skills]({{ base_path }}/images/skills.png){: .align-center}
+
+-------------------------------------------
 
 Professional Experience
 ------------------------
