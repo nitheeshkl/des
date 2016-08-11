@@ -72,8 +72,6 @@ products from concept to market. Hands on experience  and working knowledge of
 **Android**, **Mobile platforms**, **Runtimes**, **Networking** and **Security**.
 Flexible approach to perform in different roles and to scale appropriately as the team requires.
 
-**Immigration Status:** US Citizen
-
 Skills
 -------
 {: .text-center}
