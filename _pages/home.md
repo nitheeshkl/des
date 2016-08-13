@@ -75,6 +75,7 @@ mytimeline:
 
 {% include base_path %}
 
+<section id="summary"/>
 
 ![Banner]({{ base_path }}/images/des_banner.png){: .align-center}
 
@@ -94,6 +95,8 @@ Flexible approach to perform in different roles and to scale appropriately as th
 
 -------------------------------------------
 
+<section id="skills"/>
+
 Skills
 -------
 {: .text-center}
@@ -101,6 +104,8 @@ Skills
 ![Skills]({{ base_path }}/images/skills.png){: .align-center}
 
 -------------------------------------------
+
+<section id="experience"/>
 
 Professional Experience
 ------------------------
