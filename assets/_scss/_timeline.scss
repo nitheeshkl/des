@@ -104,6 +104,11 @@ Modules - reusable parts of our design
 	max-width: $L; // breakpoints inside partials > _layout.scss
 	margin: 0 auto;
 
+    h1, h2 {
+        font-family: $secondary-font;
+        font-weight: bold;
+    }
+
 	&::after { /* clearfix */
 		content: '';
 		display: table;
@@ -157,6 +162,27 @@ header {
 		width: 4px;
 		background: darken($background, 5%);
 	}
+
+    header {
+        height: 200px;
+        line-height: 200px;
+        text-align: center;
+        background: $color-1;
+
+        h1 {
+            color: $color-3;
+            @include font-size(18px);
+        }
+
+        @include MQ(L) {
+            height: 300px;
+            line-height: 300px;
+
+            h1 {
+                @include font-size(24px);
+            }
+        }
+    }
 
 	@include MQ(L) {
 		margin: {
