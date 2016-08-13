@@ -2,6 +2,21 @@
 layout: archive
 permalink: /
 author_profile: true
+excerpt: "Customer-focused technical management professional with 21 years of proven 
+experience in **product design**, **development** and **QA**. Leader with strong
+talent in building and developing high performance teams  while delivering 
+products from concept to market. Hands on experience  and working knowledge of 
+**Android**, **Mobile platforms**, **Runtimes**, **Networking** and **Security**.
+Flexible approach to perform in different roles and to scale appropriately as
+the team requires."
+
+header:
+    overlay_image: banner_bg.jpg
+    overlay_image_2: bio-photo.jpg
+    overlay_filter: 0.7
+    overlay_color: "#333"
+    cta_label: "Download Resume"
+    cta_url: "/"
 mytimeline:
     - title: "Director/Senior Engineering Manager, Intel Corporation,SantaClara, CA"
       desc: "Lead the Android Runtime (ART) Center of Excellence for Intel with
