@@ -153,7 +153,7 @@ a:hover {
 
 .feature__item {
   margin-bottom: 2em;
-  font-size: 1.25rem;
+  font-size: $type-size-3;
 
   @include breakpoint($small) {
     margin-bottom: 0;
@@ -167,7 +167,7 @@ a:hover {
 
   &--left {
     @include full();
-    font-size: 1.25rem;
+    font-size: $type-size-3;
 
     .archive__item-teaser {
       margin-bottom: 2em;
@@ -188,7 +188,7 @@ a:hover {
 
   &--right {
     @include full();
-    font-size: 1.25rem;
+    font-size: $type-size-3;
 
     .archive__item-teaser {
       margin-bottom: 2em;
@@ -211,7 +211,7 @@ a:hover {
 
   &--center {
     @include full();
-    font-size: 1.25rem;
+    font-size: $type-size-3;
 
     .archive__item-teaser {
       margin-bottom: 2em;
