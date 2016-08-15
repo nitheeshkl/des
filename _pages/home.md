@@ -17,7 +17,7 @@ header:
     cta_label: "Download Resume"
     cta_url: "/"
 mytimeline:
-    - title: "Director/Senior Engineering Manager, Intel Corporation,SantaClara, CA"
+    - title: "Director/Senior Engineering Manager, Intel Corporation, SantaClara, CA"
       desc: "Lead the Android Runtime (ART) Center of Excellence for Intel with
             the reponsibility for strategy, direction, planning, development and
             delivery of Android Runtime and User Experience for Intel"
