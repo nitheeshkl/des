@@ -156,11 +156,13 @@ portfolio:
 
 {% include base_path %}
 
-<section id="summary"/>
+<section id="leadership-style"/>
 
 ![Banner]({{ base_path }}/images/des_banner.png){: .align-center}
 
 -------------------------------------------
+
+<section id="summary"/>
 
 Executive Summary
 -----------------
