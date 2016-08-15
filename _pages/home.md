@@ -168,12 +168,17 @@ Executive Summary
 -----------------
 {: .text-center}
 
-Customer-focused technical management professional with 21 years of proven 
-experience in **product design**, **development** and **QA**. Leader with strong
-talent in building and developing high performance teams  while delivering 
-products from concept to market. Hands on experience  and working knowledge of 
-**Android**, **Mobile platforms**, **Runtimes**, **Networking** and **Security**.
-Flexible approach to perform in different roles and to scale appropriately as the team requires.
+Engineering leader with 21 years of proven industry experience professional
+specializing in **Android**, **Mobile Platforms**, **Runtimes**, **Networking**,
+**Communications**, **Security**, **Embedded and System software**. Strengths
+include building and developing high performance multi-site international teams
+while understanding customer requirements and delivering products from concept
+ to market and right balance of technical leadership, business acumen, people
+ and project management. Achieved delivering performant Android Runtime across 8
+ Android releases and built networking switches, security appliances from
+ concept to product and am excited about building/leading a strong team
+ delivering world class products built with cutting edge technologies in my next
+ role.
 {: .text-justify}
 
 -------------------------------------------
@@ -208,10 +213,10 @@ Portfolio
 {% include feature_row id="portfolio" %}
 
 
-<section id="referrals"/>
+<section id="reference"/>
 
-Refferals
----------
+References
+----------
 {: .text-center}
 
 <br/><br/>
