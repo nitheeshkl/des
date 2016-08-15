@@ -1,8 +1,9 @@
 ---
 layout: single
 title: "Director of Engineering, Consentry Networks, CA"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
-permalink: /portfolio/consentry/
+permalink: /experience/consentry/
+header:
+    teaser: consentry_logo.png
 sidebar:
   - title: "Role"
     image: consentry_logo.png

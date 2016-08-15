@@ -23,7 +23,7 @@ mytimeline:
             the reponsibility for strategy, direction, planning, development and
             delivery of Android Runtime and User Experience for Intel"
       img_alt: "Intel"
-      readmore: "/portfolio/intel/"
+      readmore: "/experience/intel/"
       fa-icon: group
       date: "Dec 10 - Present"
 
@@ -42,14 +42,14 @@ mytimeline:
             delivered all the products from concept through the customer
             acceptance phase. The LanShield CS4048X wiring-closed switch won
             <strong>Interop 2006 Best of Show</strong>"
-      readmore: "/portfolio/consentry/"
+      readmore: "/experience/consentry/"
       fa-icon: group
       date: "Jun 05 - Aug 09"
 
     - title: "Software Manager, Extreme Networks, Santa Clara, CA"
       desc: "Joined Extreme in its pre-IPO stage, worked on many parts of the
             software as a core memeber. Promoted and held various roles."
-      readmore: "/portfolio/extreme/"
+      readmore: "/experience/extreme/"
       fa-icon: hashtag
       date: "Mar 98 - Jun 05"
 

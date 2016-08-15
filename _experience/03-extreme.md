@@ -1,8 +1,9 @@
 ---
 layout: single
 title: "Software Manager, Extreme Networks, CA"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
-permalink: /portfolio/extreme/
+permalink: /experience/extreme/
+header:
+    teaser: extreme_logo.png
 sidebar:
   - title: "Role"
     image: extreme_logo.png

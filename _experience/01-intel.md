@@ -1,10 +1,10 @@
 ---
 layout: single
 title: "Intel Corporation, Santa Clara, CA"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
-permalink: /portfolio/intel/
+permalink: /experience/intel/
 header:
     image: cso-art.jpg
+    teaser: intel_logo.png
 sidebar:
   - title: "Role"
     image: intel_logo.png
