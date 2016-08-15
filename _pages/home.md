@@ -15,7 +15,7 @@ header:
     overlay_filter: 0.7
     overlay_color: "#333"
     cta_label: "Download Resume"
-    cta_url: "/"
+    cta_url: "/des-resume.pdf"
 mytimeline:
     - title: "Director/Senior Engineering Manager, Intel Corporation, SantaClara, CA"
       desc: "Lead the Android Runtime (ART) Center of Excellence for Intel with
