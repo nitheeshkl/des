@@ -35,9 +35,9 @@ $secondary-font: 'Open Sans', sans-serif;
 
 // layout - breakpoints
    
-$S:     320px;   
-$M:     768px;     
-$L:     1170px;     
+$S:     $small;
+$M:     $medium;
+$L:     $large;
 
 // layout - media queries
 
@@ -162,27 +162,6 @@ header {
 		width: 4px;
 		background: darken($background, 5%);
 	}
-
-    header {
-        height: 200px;
-        line-height: 200px;
-        text-align: center;
-        background: $color-1;
-
-        h1 {
-            color: $color-3;
-            @include font-size(18px);
-        }
-
-        @include MQ(L) {
-            height: 300px;
-            line-height: 300px;
-
-            h1 {
-                @include font-size(24px);
-            }
-        }
-    }
 
 	@include MQ(L) {
 		margin: {
@@ -313,11 +292,12 @@ header {
 
 	h2 {
 		color: $color-1;
+        font-size: $type-size-3 !important;
 	}
 
 	p, .cd-read-more, .cd-date {
 	/*	@include font-size(8px); */
-        font-size: $type-size-6 !important;
+        font-size: $type-size-5 !important;
 	}
 
 	.cd-read-more, .cd-date {
@@ -337,7 +317,7 @@ header {
 		@include border-radius;
 
 		.no-touch &:hover {
-			background-color: lighten($link, 5%);
+			background-color: lighten($info-color, 5%);
 		}
 	}
 
