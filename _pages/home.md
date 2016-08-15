@@ -208,10 +208,10 @@ Portfolio
 {% include feature_row id="portfolio" %}
 
 
-<section id="recos"/>
+<section id="referrals"/>
 
-Recommendations
----------------
+Refferals
+---------
 {: .text-center}
 
 <br/><br/>
