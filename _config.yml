@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Saravanan Desikan"
+title                    : "Des Saravanan"
 title_separator          : "-"
-name                     : "Saravanan Desikan"
+name                     : "Des Saravanan"
 description              : "Des's portfolio."
 url                      : "https://nitheeshkl.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/des" # the subpath of your site, e.g. "/blog"
@@ -63,7 +63,7 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Saravanan Desikan"
+  name             : "Des Saravanan"
   avatar           : "bio-photo.jpg"
   bio              : "Engineering Leader"
   location         : "SanFrancisco Bay area"
