@@ -27,7 +27,7 @@ mytimeline:
       date: "Dec 10 - Present"
 
     - title: "Independent Consultant"
-      desc: "took personal time off to be with family in India to address a
+      desc: "Took personal time off to be with family in India to address a
             family emergency. Consulted for software development firms on the SDLC,
             quality initiatives and release & configuration management"
       fa-icon: user
