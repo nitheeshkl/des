@@ -15,7 +15,7 @@ sidebar:
     delivery of Android Runtime for Intel"
 ---
 
-Lead the Android Runtime(ART) Center of Excellence for Intel with the
+Started and lead the Android Runtime(ART) Center of Excellence for Intel with the
 responsibility for strategy, direction, planning, development, and delivery of
 Android Runtime and User Experience for Intel. 
 
