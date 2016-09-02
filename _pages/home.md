@@ -18,36 +18,36 @@ header:
     cta_url: "/des-resume.pdf"
 mytimeline:
     - title: "Director/Senior Engineering Manager, Intel Corporation, SantaClara, CA"
-      desc: "Lead the Android Runtime (ART) Center of Excellence for Intel with
-            the reponsibility for strategy, direction, planning, development and
-            delivery of Android Runtime and User Experience for Intel"
+      desc: "Started and lead Android Runtime (ART) Center of Excellence for Intel
+      with responsibility for strategy, direction, planning, development, and 
+      delivery of Android Runtime and associated User Experience in all of Intel’s Phone, 
+      Tablet, TV, IOT and other Android platforms and devices"
       img_alt: "Intel"
       readmore: "/experience/intel/"
       fa-icon: group
       date: "Dec 10 - Present"
 
     - title: "Independent Consultant"
-      desc: "Took personal time off to be with family in India to address a
-            family emergency. Consulted for software development firms on the SDLC,
+      desc: "Consulted for software development firms on the SDLC,
             quality initiatives and release & configuration management"
       fa-icon: user
       date: "Sep 09 - Dec 10"
 
     - title: "Director of Engineering, ConSentry Networks, Milpitas, CA"
-      desc: "Consentry was building next generation Ethernet appliances (CS2400
-            and CS1000) and switches (CS4048 and CS4024) which natively integrated
-            switching and routing with identity and application firewal 
-            capabilities. Joined as the first software development manager and
-            delivered all the products from concept through the customer
-            acceptance phase. The LanShield CS4048X wiring-closed switch won
-            <strong>Interop 2006 Best of Show</strong>"
+      desc: "Build, led and managed the software engineering, QA, DevOps and TechPubs 
+      teams with a mission to build ConSentry’s next-generation Ethernet appliances 
+      (CS2400 and CS1000) and switches (CS4048 and CS4024) which natively integrated 
+      switching and routing with identity and application firewall capabilities"
       readmore: "/experience/consentry/"
       fa-icon: group
       date: "Jun 05 - Aug 09"
 
     - title: "Software Manager, Extreme Networks, Santa Clara, CA"
-      desc: "Joined Extreme in its pre-IPO stage, worked on many parts of the
-            software as a core memeber. Promoted and held various roles."
+      desc: "Joined as one of the early stage pre-IPO engineer to work on various
+      parts of the networking software stack. Promoted through various roles and 
+      functions including Manager/L2 software, Manager/Security Software, 
+      Tech Lead/IP multicast, Tech Lead/L3 software, Tech Lead/Platform Software. 
+      Provided technical leadership and direction to the team and awarded several patents" 
       readmore: "/experience/extreme/"
       fa-icon: hashtag
       date: "Mar 98 - Jun 05"
