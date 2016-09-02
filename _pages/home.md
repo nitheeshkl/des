@@ -52,13 +52,13 @@ mytimeline:
       fa-icon: hashtag
       date: "Mar 98 - Jun 05"
 
-    - title: Senior Software Engineer, FlowWise Networks, San Jose, CA
+    - title: "Senior Software Engineer, FlowWise Networks, San Jose, CA"
       desc: "Designed and developed the switching and routing solutions for the
             FlowWise's L3 switch product."
       fa-icon: code
       date: "Nov 97 - Mar 98"
 
-    - title: "Senior Software Engineer, Future Software, Chennai, India
+    - title: "Senior Software Engineer, Future Software, Chennai, India"
       desc: "Designed, developed and tested FutureOSPF, a source code product
             that is sold to the OEM vendors for routers & switches."
       fa-icon: code
