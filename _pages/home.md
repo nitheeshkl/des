@@ -17,7 +17,7 @@ header:
     cta_label: "Download Resume"
     cta_url: "/des-resume.pdf"
 mytimeline:
-    - title: "Director/Senior Engineering Manager, Intel Corporation, SantaClara, CA"
+    - title: "Director/Sr. Manager, Intel Corporation, Santa Clara, CA"
       desc: "Started and lead Android Runtime (ART) Center of Excellence for Intel
       with responsibility for strategy, direction, planning, development, and 
       delivery of Android Runtime and associated User Experience in all of Intel’s Phone, 
@@ -28,7 +28,7 @@ mytimeline:
       date: "Dec 10 - Present"
 
     - title: "Independent Consultant"
-      desc: "Consulted for software development firms on the SDLC,
+      desc: "Consulted for software development firms on the SDLC
             quality initiatives and release & configuration management"
       fa-icon: user
       date: "Sep 09 - Dec 10"
@@ -52,13 +52,13 @@ mytimeline:
       fa-icon: hashtag
       date: "Mar 98 - Jun 05"
 
-    - title: Senior Software Engineer, FlowWise Networks, San Jose, CA"
+    - title: Senior Software Engineer, FlowWise Networks, San Jose, CA
       desc: "Designed and developed the switching and routing solutions for the
             FlowWise's L3 switch product."
       fa-icon: code
       date: "Nov 97 - Mar 98"
 
-    - title: "Senior Software Engineer, Future Software, Chennai, India"
+    - title: "Senior Software Engineer, Future Software, Chennai, India
       desc: "Designed, developed and tested FutureOSPF, a source code product
             that is sold to the OEM vendors for routers & switches."
       fa-icon: code
