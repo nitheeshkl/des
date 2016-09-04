@@ -34,7 +34,7 @@ mytimeline:
       date: "Sep 09 - Dec 10"
 
     - title: "Director of Engineering, ConSentry Networks, Milpitas, CA"
-      desc: "Build, led and managed the software engineering, QA, DevOps and TechPubs 
+      desc: "Built, led and managed the software engineering, QA, DevOps and TechPubs 
       teams with a mission to build ConSentry’s next-generation Ethernet appliances 
       (CS2400 and CS1000) and switches (CS4048 and CS4024) which natively integrated 
       switching and routing with identity and application firewall capabilities"
