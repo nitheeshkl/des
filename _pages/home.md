@@ -2,7 +2,8 @@
 layout: archive
 permalink: /
 author_profile: true
-excerpt: "<ul type="disc"> <p style="color:white; font-size:160%;">
+excerpt: "<ul type="disc"> 
+<p style="color:white; font-size:160%;">
 <li>Customer-focused technology executive with over 20 years of diverse expertise in delivering products from concept to market in the areas of Android, Mobile platforms, App Runtimes, IOT, Networking, Communications, Security, Embedded and System software</li>
 <li>Champion technical and business solutions with both technical and non-technical audiences and collaborate with cross-functional teams, vendors, partners and customers to translate business needs into product deliverables</li>
 <li>Leverage strong business acumen to drive success in scaling and diversifying product portfolios across adjacencies, with innovations fueling bottom-line growth and ROI</li>
