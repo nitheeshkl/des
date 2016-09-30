@@ -1,0 +1,20 @@
+# main links links
+ main:
+  - title: "Leadership Style"
+    url:   "/#leadership-style"
+
+  - title: "Summary"
+    url: "/#summary"
+
+  - title: "Skills"
+    url: "/#skills"
+
+  - title: "Experience"
+    url: "/#experience"
+
+  - title: "Portfolio"
+    url: "/#portfolio"
+
+  - title: "Reference"
+    url: "/#reference"
+
