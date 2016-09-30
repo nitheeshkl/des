@@ -2,13 +2,13 @@
 layout: archive
 permalink: /
 author_profile: true
-excerpt: "Customer-focused technical management professional with 21 years of proven 
-experience in **product design**, **development** and **QA**. Leader with strong
-talent in building and developing high performance teams  while delivering 
-products from concept to market. Hands on experience  and working knowledge of 
-**Android**, **Mobile platforms**, **Runtimes**, **Networking** and **Security**.
-Flexible approach to perform in different roles and to scale appropriately as
-the team requires."
+excerpt: "
+* Customer-focused technology executive with over 20 years of diverse expertise in delivering products from concept to market in the areas of Android, Mobile platforms, App Runtimes, IOT, Networking, Communications, Security, Embedded and System software.  
+* Champion technical and business solutions with both technical and non-technical audiences and collaborate with cross-functional teams, vendors, partners and customers to translate business needs into product deliverables.
+* Leverage strong business acumen to drive success in scaling and diversifying product portfolios across adjacencies, with innovations fueling bottom-line growth and ROI.  
+* Adept at building and motivating top performing, global teams to deliver best-of-breed technology products within the constraints of scope, quality standards, timelines, and budgets.  
+* Challenge-driven and thrive in a dynamic environment. Flexible approach to perform in different roles and to scale appropriately as the team requires.
+"
 header:
     overlay_image: banner_bg.jpg
     overlay_image_2: bio-photo.jpg
@@ -17,7 +17,7 @@ header:
     cta_label: "Download Resume"
     cta_url: "/des-resume.pdf"
 mytimeline:
-    - title: "Director/Sr. Manager, Intel Corporation, Santa Clara, CA"
+    - title: "Head of Android Run Time Center of Excellance, Intel Corporation, Santa Clara, CA"
       desc: "Started and lead Android Runtime (ART) Center of Excellence for Intel
       with responsibility for strategy, direction, planning, development, and 
       delivery of Android Runtime and associated User Experience in all of Intel’s Phone, 
@@ -25,13 +25,13 @@ mytimeline:
       img_alt: "Intel"
       readmore: "/experience/intel/"
       fa-icon: group
-      date: "Dec 10 - Present"
+      date: "2010 - Present"
 
     - title: "Independent Consultant"
       desc: "Consulted for software development firms on the SDLC
             quality initiatives and release & configuration management"
       fa-icon: user
-      date: "Sep 09 - Dec 10"
+      date: "2009 - 2010"
 
     - title: "Director of Engineering, ConSentry Networks, Milpitas, CA"
       desc: "Built, led and managed the software engineering, QA, DevOps and TechPubs 
@@ -40,7 +40,7 @@ mytimeline:
       switching and routing with identity and application firewall capabilities"
       readmore: "/experience/consentry/"
       fa-icon: group
-      date: "Jun 05 - Aug 09"
+      date: "2005 - 2009"
 
     - title: "Software Manager, Extreme Networks, Santa Clara, CA"
       desc: "Joined as one of the early stage pre-IPO engineer to work on various
@@ -50,25 +50,25 @@ mytimeline:
       Provided technical leadership and direction to the team and awarded several patents" 
       readmore: "/experience/extreme/"
       fa-icon: hashtag
-      date: "Mar 98 - Jun 05"
+      date: "1998 - 2005"
 
     - title: "Senior Software Engineer, FlowWise Networks, San Jose, CA"
       desc: "Designed and developed the switching and routing solutions for the
             FlowWise's L3 switch product."
       fa-icon: code
-      date: "Nov 97 - Mar 98"
+      date: "1997 - 1998"
 
     - title: "Senior Software Engineer, Future Software, Chennai, India"
       desc: "Designed, developed and tested FutureOSPF, a source code product
             that is sold to the OEM vendors for routers & switches."
       fa-icon: code
-      date: "Jun 95 - Nov 97"
+      date: "1995 - 1997"
 
     - title: "Graduation"
       desc: "BS, Computer Science & Engineering from CIT (one of the top 25
             institutions in India)"
       fa-icon: graduation-cap
-      date: "Jun 95"
+      date: "1991 - 1995"
 reco_penni:
     - image_path: penni.jpg
       alt: "Penni's reco"
